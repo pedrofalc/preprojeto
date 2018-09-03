@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.16)  11 JUN 2018 15:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.16)  3 SEP 2018 10:23
 entering extended mode
 **./conference_041818.tex
 (conference_041818.tex
@@ -849,173 +849,216 @@ G,.JBIG2,.JB2,.eps]
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 29.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 43.
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 29.
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Warning: No \author given.
-
-
-LaTeX Warning: No \author given.
-
-
-LaTeX Warning: No \author given.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
-[]\OT1/ptm/b/it/9 Palavras-chave\OT1/ptm/b/n/9 ---Redes-em-Chip, toler[]ancia a
- fal-has,
+Underfull \hbox (badness 6284) in paragraph at lines 61--63
+[]\OT1/ptm/b/it/9 Palavras-chave\OT1/ptm/b/n/9 ---M[]odulo,FPGA, Seguran[]a, Te
+mpo Real,
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 44--55
-\OT1/ptm/m/n/10 Por isso []e necess[]ario con-sid-erar NoCs po-dem pos-suir
+Underfull \hbox (badness 2057) in paragraph at lines 68--73
+\OT1/ptm/m/n/10 Os m[]etodos de otimiza[][]ao de sis-temas de tempo real
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 68--73
+\OT1/ptm/m/n/10 im-ple-men-ta-dos(algoritmos,m[]etricas e fluxo). Al[]em disso,
+
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 68--73
+\OT1/ptm/m/n/10 ex-is-tem es-trat[]egias que bus-cam re-alizar otimiza[][]ao em
+
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 68--73
+\OT1/ptm/m/n/10 Para re-alizar tare-fas de alto grau de pro-ces-sa-mento []e
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 68--73
+\OT1/ptm/m/n/10 aco-modar grandes l[]ogicas e pos-suem alto poder de
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 68--73
+\OT1/ptm/m/n/10 aplica[][]oes que re-querem mudan[]as fre-quentes em suas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
+
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 76.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 3281) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 po-dendo at-uar so-bre uma plataforma de pro-ces-sadores
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 (em ingl[]es, Mul-ti-Pro-ces-sor SoC - MP-SoC), que uti-liza
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 uma topolo-gia com malha 2D como in-fraestru-tura de
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 chamada Hw-Phoenix (roteadores) e uma parte soft-ware
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 chamada Os-Pho-enix (sis-tema op-era-cional de cada PE)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+<fig1.jpg, id=1, 743.02594pt x 361.35pt>
+File: fig1.jpg Graphic file (type jpg)
+<use fig1.jpg>
+Package pdftex.def Info: fig1.jpg  used on input line 79. on input line 79.
+Package pdftex.def Info: Requested size: 271.20789pt x 131.89441pt on input lin
+e 79.
+
+Package caption Warning: \label without proper reference on input line 106.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `Midas Arch' on page 1 undefined on input line 90.
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 84--92
+\OT1/ptm/m/n/10 NoC Phoenix, so-bre-tudo na reconfigura[][]ao com topolo-
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 84--92
+\OT1/ptm/m/n/10 gia ir-reg-u-lares, o tra-balho de Sil-veira, JAN [5] prop[]oe
  []
 
 [1{C:/Users/LESC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 61.
+Underfull \vbox (badness 3568) has occurred while \output is active []
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \hbox (badness 3281) in paragraph at lines 61--63
-\OT1/ptm/m/n/10 po-dendo at-uar so-bre uma plataforma de pro-ces-sadores
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 61--63
-\OT1/ptm/m/n/10 sua di-vis[]ao con-siste em uma parte hard-ware chamada
- []
-
-
-Underfull \hbox (badness 1881) in paragraph at lines 61--63
-\OT1/ptm/m/n/10 Hw-Phoenix (roteadores) e uma parte soft-ware chamada
- []
-
-
-Underfull \hbox (badness 1917) in paragraph at lines 61--63
-\OT1/ptm/m/n/10 Os-Pho-enix (sis-tema op-era-cional de cada PE) (Figura1[]).
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
-
- []
-
-<fig1.jpg, id=8, 743.02594pt x 361.35pt>
-File: fig1.jpg Graphic file (type jpg)
-<use fig1.jpg>
-Package pdftex.def Info: fig1.jpg  used on input line 65. on input line 65.
-Package pdftex.def Info: Requested size: 271.20789pt x 131.89441pt on input lin
-e 65.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./fig1.jpg>]
-<fig4.png, id=15, 118.16145pt x 88.1694pt>
+<fig4.png, id=12, 118.16145pt x 88.1694pt>
 File: fig4.png Graphic file (type png)
 <use fig4.png>
-Package pdftex.def Info: fig4.png  used on input line 85. on input line 85.
+Package pdftex.def Info: fig4.png  used on input line 101. on input line 101.
 Package pdftex.def Info: Requested size: 165.42488pt x 123.4363pt on input line
- 85.
-<fig2.png, id=16, 1782.66pt x 1063.975pt>
+ 101.
+<fig2.png, id=13, 1782.66pt x 1063.975pt>
 File: fig2.png Graphic file (type png)
 <use fig2.png>
-Package pdftex.def Info: fig2.png  used on input line 96. on input line 96.
+Package pdftex.def Info: fig2.png  used on input line 113. on input line 113.
 Package pdftex.def Info: Requested size: 249.5707pt x 148.95547pt on input line
- 96.
- [3 <./fig4.png> <./fig2.png>]
-<fig3.png, id=21, 564.1075pt x 513.92pt>
+ 113.
+ [2 <./fig1.jpg> <./fig4.png>]
+<fig3.png, id=19, 564.1075pt x 513.92pt>
 File: fig3.png Graphic file (type png)
 <use fig3.png>
-Package pdftex.def Info: fig3.png  used on input line 136. on input line 136.
+Package pdftex.def Info: fig3.png  used on input line 156. on input line 156.
 Package pdftex.def Info: Requested size: 225.63899pt x 205.56435pt on input lin
-e 136.
+e 156.
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--149
+Underfull \hbox (badness 10000) in paragraph at lines 162--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--153
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+[3 <./fig2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 []\OT1/ptm/m/n/10 Estudar o mod-elo da NoC Phoenix com
  []
 
 
-Underfull \hbox (badness 7486) in paragraph at lines 156--157
+Underfull \hbox (badness 7486) in paragraph at lines 176--177
 \OT1/ptm/m/n/10 reconfigura[][]ao e pr[]e-processamento, al[]em de
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 156--157
+Underfull \hbox (badness 1960) in paragraph at lines 176--177
 \OT1/ptm/m/n/10 im-ple-men-tar em uma lin-guagem a n[]vel RTL
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 158--160
+Underfull \hbox (badness 2698) in paragraph at lines 178--180
 []\OT1/ptm/m/n/10 Realizar um es-tudo do servi[]o AWS e toda
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--160
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
 \OT1/ptm/m/n/10 a ar-quite-tura em nu-vem necess[]ario para
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--160
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 175--175
+Underfull \hbox (badness 1609) in paragraph at lines 195--195
 []|\OT1/ptm/m/n/8 Revis[]ao de lit-er-atura so-bre da Phoenix
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
 \OT1/ptm/m/n/8 re-siliente a er-ros, uti-lizando pr[]e-
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 183--183
+Underfull \hbox (badness 2119) in paragraph at lines 203--203
 []|\OT1/ptm/m/n/8 Testes do Sim-u-lador na NoC phoenix,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 \OT1/ptm/m/n/8 re-siliente a er-ros, uti-lizando pr[]e-
  []
 
-[4 <./fig3.png (PNG copy)>]
-Underfull \hbox (badness 2326) in paragraph at lines 228--229
+
+Underfull \hbox (badness 2326) in paragraph at lines 250--251
 \OT1/ptm/m/n/8 and Krste Asanovic. \Eval-u-a-tion of RISC-V RTL with FPGA-
  []
 
+[4 <./fig3.png (PNG copy)>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -1029,23 +1072,28 @@ Before submitting the final camera ready copy, remember to:
 
 [5
 
-] (conference_041818.aux) ) 
+] (conference_041818.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 6085 strings out of 493312
- 88947 string characters out of 3138901
- 266954 words of memory out of 3000000
- 9535 multiletter control sequences out of 15000+200000
- 38627 words of font info for 84 fonts, out of 3000000 for 9000
+ 6123 strings out of 493312
+ 89542 string characters out of 3138901
+ 268002 words of memory out of 3000000
+ 9566 multiletter control sequences out of 15000+200000
+ 46299 words of font info for 105 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,14n,39p,1224b,299s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r
-.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/urw/times/utmr8a.pfb>
-Output written on conference_041818.pdf (5 pages, 324927 bytes).
+ 41i,14n,39p,1224b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb
+i8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_041818.pdf (5 pages, 345103 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
